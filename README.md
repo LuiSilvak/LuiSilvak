@@ -3,6 +3,7 @@
 - Data Analysis Specialist
 - 🔭 I’m currently working on back-end
 - 🌱 I’m currently learning PHP/Laravel
+- 🌱 I’m currently learning Python
 
 ##
 
